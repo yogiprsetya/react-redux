@@ -1,0 +1,13 @@
+.container {
+  background: black;
+  color: white;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-inline {
+  display: inline-block
+}
